@@ -15,7 +15,7 @@ class BinarySearchTree {
 
   add(/* data */) {
     throw new NotImplementedError('Not implemented');
-    // remove line with error and write your code here
+      // remove line with error and write your code her
   }
 
   has(/* data */) {
@@ -29,12 +29,12 @@ class BinarySearchTree {
   }
 
   remove(/* data */) {
-    throw new NotImplementedError('Not implemented');
+      throw new NotImplementedError('Not implemente');
     // remove line with error and write your code here
   }
 
   min() {
-    throw new NotImplementedError('Not implemented');
+    throw new NotImplementedError('Not implemente');
     // remove line with error and write your code here
   }
 
